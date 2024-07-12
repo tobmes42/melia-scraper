@@ -1,7 +1,3 @@
-Hier ist eine README-Datei, die beschreibt, was das Programm macht, wie man es auf Windows ausführt und ein Beispiel für den Aufruf:
-
----
-
 # Meliá Hotel Buchungsanfrage Scraper
 
 Dieses Python-Skript ermöglicht es, Buchungsanfragen für das Meliá Frankfurt City Hotel über die offizielle Website von Meliá zu automatisieren. Es verwendet Selenium für die Webseiten-Interaktion und BeautifulSoup für das Parsen des HTML-Codes. Die Ergebnisse werden in eine CSV-Datei geschrieben, die die Verfügbarkeit von Zimmertypen für jeden Tag im angegebenen Zeitraum zeigt.
